@@ -1,1 +1,2 @@
-test for github!
+copy_file_client 为客户端代码
+copy_file_server 为服务端代码
